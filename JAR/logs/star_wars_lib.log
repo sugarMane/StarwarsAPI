@@ -1,0 +1,6 @@
+2024-12-16 20:27:05 INFO  RequestHandler - Обрабатываем запрос: Дагоба
+2024-12-16 20:27:08 INFO  RequestHandler - Выведена информация о планете: Dagobah
+2024-12-16 20:29:04 INFO  RequestHandler - Обрабатываем запрос: Death Star
+2024-12-16 20:29:06 INFO  RequestHandler - Выведена информация о звездном корабле: Death Star
+2024-12-16 20:30:43 INFO  RequestHandler - Обрабатываем запрос: Naboo
+2024-12-16 20:30:46 INFO  RequestHandler - Выведена информация о планете: Naboo
